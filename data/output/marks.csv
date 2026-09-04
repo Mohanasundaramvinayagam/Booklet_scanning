@@ -1,0 +1,11 @@
+question,extracted_image,status
+1,data/output/extracted_marks\Q1.png,detected
+2,data/output/extracted_marks\Q2.png,detected
+3,data/output/extracted_marks\Q3.png,detected
+4,data/output/extracted_marks\Q4.png,detected
+5,data/output/extracted_marks\Q5.png,detected
+6,data/output/extracted_marks\Q6.png,detected
+7,data/output/extracted_marks\Q7.png,detected
+8,data/output/extracted_marks\Q8.png,detected
+9,data/output/extracted_marks\Q9.png,detected
+10,data/output/extracted_marks\Q10.png,detected
